@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![LHMET's GitHub stats](https://github-readme-stats.vercel.app/api?username=lhmet&count_private=true&show_icons=true&theme=maroongold)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lhmet&theme=maroongold&layout=compact)
+
 <!--
 **lhmet/lhmet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
