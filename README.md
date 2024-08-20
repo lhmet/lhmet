@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-![LHMET's GitHub stats](https://github-readme-stats.vercel.app/api?username=lhmet&count_private=true&show_icons=true&theme=maroongold)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lhmet&theme=maroongold&layout=compact)
+![LHMET's GitHub stats](https://github-readme-stats.vercel.app/api?username=lhmet&count_private=false&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lhmet&hide_progress=true)
+
 
 
 <div style="display: inline_block"><br>
