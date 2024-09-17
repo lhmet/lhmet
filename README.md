@@ -1,4 +1,4 @@
-Hi guys, we're the Hydrometeorology Laboratory at UFSM.
+Hi there, we're the Hydrometeorology Laboratory at UFSM.
 Here we share our R code and are open to collaboration.
 
 
