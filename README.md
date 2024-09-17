@@ -1,6 +1,6 @@
-### Olá! We are the Laboratório de Hidrometeorologia (LHMET) 
+Hi guys, we're the Hydrometeorology Laboratory at UFSM.
+Here we share our R code and are open to collaboration.
 
-Aqui nós compartilhamos os códigos desenvolvidos no LHMET da Universidade Federal de Santa Maria (UFSM).
 
 ![LHMET's GitHub stats](https://github-readme-stats.vercel.app/api?username=lhmet&count_private=false&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lhmet&hide_progress=true)
