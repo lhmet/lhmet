@@ -1,16 +1,9 @@
-### Hi there 👋
+### Olá! We are the Laboratório de Hidrometeorologia (LHMET) 
+
+Aqui nós compartilhamos os códigos desenvolvidos no LHMET da Universidade Federal de Santa Maria (UFSM).
 
 ![LHMET's GitHub stats](https://github-readme-stats.vercel.app/api?username=lhmet&count_private=false&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lhmet&hide_progress=true)
-
-### :fire: My Stats :
-
-<a href="https://github.com/lhmet/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=lhmet&theme=dark" />
-</a>
-<a href="https://git.io/streak-stats">
-  <img height=150 align="center" src="http://github-readme-streak-stats.herokuapp.com?user=lhmet&theme=dark&background=000000" />
-</a>
 
 
 
